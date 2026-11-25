@@ -1,0 +1,8 @@
+{
+  "name": "Ale Studio",
+  "description": "Ale Studio — Boutique italiana di alta profumeria con Yves Saint Laurent Libre e Montale Paris Arabians Tonka Eau de Parfum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
